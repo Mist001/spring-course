@@ -1,6 +1,3 @@
-# spring-course
-
-
 ## Functional Requirements and Rest API
 
 **Functional Requirments**
